@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrii
 ===============================================================================================================================
 
-Full Stack Developer
---------------------
-
 * ✉️  You can contact me at [fedorov.andrii.andriiovych@gmail.com](mailto:fedorov.andrii.andriiovych@gmail.com)
 
 
